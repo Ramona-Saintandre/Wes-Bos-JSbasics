@@ -28,7 +28,7 @@ pic.classList.remove('big');
 pic.classList.toggle('round');
 
 function toggleRound(){
-    pic.classList.toggle('round');
+	pic.classList.toggle('round');
 }
 pic.addEventListener('click', toggleRound);
 
